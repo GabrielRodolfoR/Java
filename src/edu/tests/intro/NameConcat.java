@@ -1,4 +1,4 @@
-package edu.tests.intro;
+package edu.tests.intro; // indica a quem pertence, o objetivo dela e ajuda a organizar o código
 
 public class NameConcat {
     public static void main(String[] args) {

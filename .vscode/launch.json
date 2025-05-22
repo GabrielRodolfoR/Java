@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.tests.args.AboutMe",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "Increment",
+            "request": "launch",
+            "mainClass": "edu.tests.intro.Increment",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "NameConcat",
+            "request": "launch",
+            "mainClass": "edu.tests.intro.NameConcat",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "Operations",
+            "request": "launch",
+            "mainClass": "edu.tests.intro.Operations",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "edu.tests.intro.Operator",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "StudentsGrade",
+            "request": "launch",
+            "mainClass": "edu.tests.intro.StudentsGrade",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "edu.tests.intro.Variables",
+            "projectName": "Java_29898e1c"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "edu.tests.methods.User",
+            "projectName": "Java_29898e1c"
+        }
+    ]
+}
